@@ -1,2 +1,2 @@
 # Mistral-Toxicity-Detection
-zeroshot toxicity detection using Mistral
+Zero-shot toxicity detection using Mistral
